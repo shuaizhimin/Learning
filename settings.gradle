@@ -1,1 +1,1 @@
-include ':app', ':animation', ':gradleplug', ':suanfa'
+include ':app', ':animation', ':gradleplug', ':suanfa', ':customerview'
