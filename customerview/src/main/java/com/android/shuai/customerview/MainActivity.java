@@ -11,6 +11,7 @@ import com.android.shuai.customerview.progress.ProgressActivity;
 public class MainActivity extends AppCompatActivity {
     private Button mRadarScanBtn;
     private Button mProgessBtn;
+    private Button mPathBtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         mRadarScanBtn=(Button)findViewById(R.id.mRadarScanBtn);
         mProgessBtn=(Button)findViewById(R.id.mProgressBtn);
+        mPathBtn=(Button)findViewById(R.id.mPathBtn);
         mRadarScanBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -29,6 +31,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, ProgressActivity.class));
+            }
+        });
+        mPathBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, PathActivity.class));
             }
         });
     }
