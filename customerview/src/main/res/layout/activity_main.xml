@@ -15,26 +15,26 @@
         >
 
         <Button
-            android:padding="10dp"
             android:id="@+id/mRadarScanBtn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:color/holo_blue_light"
+            android:padding="10dp"
             android:text="雷达扫描"
             android:textColor="@android:color/white"
             />
 
         <Button
-            android:layout_marginLeft="20dp"
-            android:padding="10dp"
-            android:textColor="@android:color/white"
             android:id="@+id/mProgressBtn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
             android:layout_weight="1"
             android:background="@android:color/holo_blue_light"
+            android:padding="10dp"
             android:text="进度条"
+            android:textColor="@android:color/white"
             />
     </LinearLayout>
 
@@ -46,23 +46,25 @@
         >
 
         <Button
-            android:layout_marginLeft="20dp"
-            android:padding="10dp"
+
             android:id="@+id/mPathBtn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:color/holo_blue_light"
+            android:padding="10dp"
             android:text="Path"
             android:textColor="@android:color/white"
             />
+
         <Button
-            android:padding="10dp"
             android:id="@+id/mViewGroupBtn"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
             android:layout_weight="1"
             android:background="@android:color/holo_blue_light"
+            android:padding="10dp"
             android:text="ViewGroup"
             android:textColor="@android:color/white"
             />
