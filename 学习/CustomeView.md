@@ -1,4 +1,33 @@
 * onMeasure   
+ 重写
+```
+@Override  
+    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {  
+        // TODO Auto-generated method stub  
+        super.onMeasure(widthMeasureSpec, heightMeasureSpec);  
+        int width = measureDimension(200, widthMeasureSpec);  
+        int height = measureDimension(200, heightMeasureSpec);  
+        setMeasuredDimension(width, height);  
+    }  
+  
+    public int measureDimension(int defaultSize, int measureSpec){  
+        int result;  
+          
+        int specMode = MeasureSpec.getMode(measureSpec);  
+        int specSize = MeasureSpec.getSize(measureSpec);  
+          
+        if(specMode == MeasureSpec.EXACTLY){  
+            result = specSize;  
+        }else{  
+            result = defaultSize;   //UNSPECIFIED  
+            if(specMode == MeasureSpec.AT_MOST){  
+                result = Math.min(result, specSize);  
+            }  
+        }  
+        return result;  
+    }  
+```
+
 
 
 
