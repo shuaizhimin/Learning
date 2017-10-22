@@ -6,12 +6,15 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
+import java.util.HashMap;
+
 /**
  * 1、圆变大变小
  *
  *
  */
 public class PracticeActivity extends AppCompatActivity {
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.android.shuai.customerview">
+          package="com.shuai.android.algorithm">
 
     <application
         android:allowBackup="true"
@@ -14,18 +14,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
-        </activity>
-        <activity android:name=".MatrixActivity">
-        </activity>
-        <activity android:name=".RadarScanViewActivity">
-        </activity>
-        <activity android:name=".progress.ProgressActivity">
-        </activity>
-        <activity android:name=".PathActivity">
-        </activity>
-        <activity android:name=".ViewGroupActivity">
-        </activity>
-        <activity android:name=".pulltorefresh.PullRefreshActivity">
         </activity>
     </application>
 
