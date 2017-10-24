@@ -22,4 +22,12 @@
         android:layout_height="wrap_content"
         android:background="@android:color/holo_red_light"
         android:text="启动普通Service"/>
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:id="@+id/btn_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_light"
+        android:text="启动Fragment"/>
 </LinearLayout>
