@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/1599f1ecf4278a4040804105d509f41d2460fcc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a2c8555a284e896490e1fba0f073031a752c08e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/5cd23f24356033cdb9d110e69ef7651ccf023b8a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_496c0211e1832b2158bc6e90353affb2463ff122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4391bf48707a43815669744121695520d3997437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/710886bf061a8d334afd3e2aee69b5423e5eedc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59920d84f9290227a6804e0522bd52724a020872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="96b733bc97237b4529a4560306159b37a2034fc4">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e04a203a488bdd11d49350bf0d8ef804bad6dfe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/81eede7a6aeb57f928d7b12603c6118a42bbaced/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7c56b5ceda3d3f1b9f9b33eba45a829b085dd52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/a7c3c6b595e67fe3e2119d4d69ac1357a563e2f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_451d4a9eac2ea20ab146c8e27e6bb834638929c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_fcfb26af9616bb2cc5d745fbf3e99bfc8cd31518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/8d46ca47aca376009ad7616a7e6fdc5fad8c6965/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d929396b96315813873aa31f18690d73947a0d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/9928b9083cf6d993f2f391c2e54b79a70e8f5fc2/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_c2b6c57d272cab7cec33db4984f32180eaae64b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/1b59e5ebc08ec9090b12681f9b3d7f2085b79851/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f41f12ff15190fa125c644777c79d495b3e286d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Android/adt-bundle-mac-x86_64-20140702/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ed92012253f93e47e54bc87471ef1b9ea098cd3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_26c31810d5cf8aa0fa864718863d2b29e1979d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69209ea14b40a2e1f6ed5923f84e40c2668a52e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="695c1d65b90f3abd0c3177603393e5fc0448d1e5">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9854d74702b885453a2de4c09a11c827c9776440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/dbdfe9a42c636b31bf054b6ba61ffcf0827f555f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3aae447d0e6bd159dcc969df82c034c846602b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/c0f6042c2a5287220d34ba24773cb029b2b715a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe12e926c76ea8521d96566b9859fdf8c7fe83d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/ddf4fb532e7799b5d06f62385416a6286624a682/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b3efc5938e8b4e418d4a189078545c7aa8fb6e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/b9e716563f254e864b1988dc26e546ec1c079c80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ce6069234535fb4be8dd913d6c553cd962a7fc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/9928b9083cf6d993f2f391c2e54b79a70e8f5fc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f65cb4e0b96e3432ad7c3ff183c6d7ca2784178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/a1c969fb1a9a6016c12a29b92b5890ef294a4c3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/customerview/build/intermediates/transforms/dex/debug/folders/1000/10/classes_375c3750da9495a2069d3229593ddd5b162c265f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shuaizhimin/.android/build-cache/e65c7d3e41ffd863f203d487435f11046969d827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/shuaizhimin/Documents/Learning/Learning/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bce400404f553ef278e73e054a7a3fe982942a4/classes.dex" />
+    </item>
+
+</items>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.android.shuai.customerview">
+    package="com.android.shuai.customerview">
 
     <application
         android:allowBackup="true"
@@ -10,23 +10,18 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MatrixActivity">
-        </activity>
-        <activity android:name=".RadarScanViewActivity">
-        </activity>
-        <activity android:name=".progress.ProgressActivity">
-        </activity>
-        <activity android:name=".PathActivity">
-        </activity>
-        <activity android:name=".ViewGroupActivity">
-        </activity>
-        <activity android:name=".pulltorefresh.PullRefreshActivity">
-        </activity>
+        <activity android:name=".MatrixActivity"></activity>
+        <activity android:name=".RadarScanViewActivity"></activity>
+        <activity android:name=".progress.ProgressActivity"></activity>
+        <activity android:name=".PathActivity"></activity>
+        <activity android:name=".ViewGroupActivity"></activity>
+        <activity android:name=".pulltorefresh.PullRefreshActivity"></activity>
+        <activity android:name=".zan.ZanActivity"></activity>
     </application>
 
 </manifest>
